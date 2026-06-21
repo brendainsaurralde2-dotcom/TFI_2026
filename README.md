@@ -1,7 +1,7 @@
 # TFI_2## Trabajo Intregador Final
 ## Integrantes del equipo
 - Nombre Apellido: Brenda Mulle
-- Nombre Apellido: Brenda Insaurralde
+- Nombre Apellido: Brenda Nicole Insaurralde
 - Nombre Apellido: Diego 
 ## Carrera
 Nombre de la carrera: Tecnicatura Universitaria en Telecomunicaciones
